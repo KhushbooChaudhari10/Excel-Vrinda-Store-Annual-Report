@@ -1,0 +1,16 @@
+data cleaning
+there are some values in gender are like M and F.
+we have replaced it with Male and Female
+
+In quantities also some values are one and two . we have replaced that with 1 and 2
+
+Data Processing
+created column age group
+In this we give if condition
+if age >= 50 senior
+age >= 20 Adult
+else teenager
+
+extracted month from date column
+
+data analysis
